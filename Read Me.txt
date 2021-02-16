@@ -1,0 +1,6 @@
+Read Me
+
+This project for college application prediction was programmed in Python, Jupyter Notebooks. 
+A data set using several features including Enrollment, Applications, top 10 percent, etc was used. 
+
+The primary goals with this data set were to experiment with regression and feature selection using Lasso, Ridge, Linear Regression, and K-Nearest Neighbors. The dataset is included in this repository.
